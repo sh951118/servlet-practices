@@ -39,6 +39,7 @@
 	</build>
 	<modules>
 		<module>hellowed</module>
+		<module>guestbook01</module>
 	</modules>
 	
 </project>
