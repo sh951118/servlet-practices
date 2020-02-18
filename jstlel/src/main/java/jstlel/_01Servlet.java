@@ -26,7 +26,7 @@ public class _01Servlet extends HttpServlet {
 		Object obj = null;
 		UserVo vo = new UserVo();
 		vo.setNo(10L);
-		vo.setName("김상훈");
+		vo.setName("김상훈222222222");
 		
 		// map을 사용해서 여러 값을 한번에 넘기는 방법
 		Map<String, Object> map = new HashMap<>();
